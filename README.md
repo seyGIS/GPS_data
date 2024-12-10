@@ -1,5 +1,5 @@
 # GPS_data
-cleaning and processing GPS data
+cleaning and processing GPS data    
 (english version loading)
 
 # Notice : Traitement des données GPS Hérisson
@@ -7,8 +7,8 @@ cleaning and processing GPS data
 
 ## I – Choix des paramètres statiques   
 
-_script : Test_balise.R_
-Tests statiques réalisés uniquement sur 1 balise. 
+_script : Test_balise.R_    
+Tests statiques réalisés uniquement sur 1 balise     
 Ces tests permettent de déterminer l'erreur de localisation du GPS et de choisir les paramètres qui y sont corrélés et qui constituraient un critère pour déterminer des seuils au delà desquels les points GPS d'un suivi sont considérés comme faux.    
 Pour ornitella 30g : pas de paramètres type HDOP ou nombre sat retenus pour le moment (faiblement corrélés).    
 __LE = 4 m__
